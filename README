@@ -1,0 +1,5 @@
+This is a small library for handling intervals created while dealing with large amount of data to be visualised where the intervals already fetched were to be stored and only missing data points requested.
+
+Note that the intervals take the form of arrays of objects, i.e.:
+
+[{left:a1,right:b1},{left:a2,right:b2},..,{left:an,right:bn}]
